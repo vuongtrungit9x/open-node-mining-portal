@@ -2,10 +2,10 @@
     "enabled": true,
     "coin": "geekcash.json",
 
-    "address": "GTGpxsDKnq26VKqvQp59CHRTBvK3ppT6JX",
+    "address": "GUtm766uAeydKm4rMoUsqpig4okk3Ft2Bj",
 
     "rewardRecipients": {
-        "GTGpxsDKnq26VKqvQp59CHRTBvK3ppT6JX": 1
+        "GUtm766uAeydKm4rMoUsqpig4okk3Ft2Bj": 1
     },
 
     "paymentProcessing": {
