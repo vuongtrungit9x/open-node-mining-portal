@@ -13,7 +13,7 @@
         "paymentInterval":600,
         "minimumPayment": 0.001,
         "daemon": {
-            "host": "127.0.0.1",
+            "host": "167.99.3.215",
             "port": 6888,
             "user": "root",
             "password": "H39JDa2gHpRWBiOGGvczWUfFBiFW14q1"
@@ -28,7 +28,7 @@
 
     "daemons": [
         {
-            "host": "127.0.0.1",
+            "host": "167.99.3.215",
             "port": 6888,
             "user": "root",
             "password": "H39JDa2gHpRWBiOGGvczWUfFBiFW14q1"
@@ -44,7 +44,7 @@
 
     "mposMode": {
         "enabled": false,
-        "host": "127.0.0.1",
+        "host": "167.99.3.215",
         "port": 3306,
         "user": "me",
         "password": "mypass",
@@ -55,7 +55,7 @@
 
     "mongoMode": {
         "enabled": false,
-        "host": "127.0.0.1",
+        "host": "167.99.3.215",
         "user": "",
         "pass": "",
         "database": "ltc",
